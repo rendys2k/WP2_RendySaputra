@@ -6,7 +6,7 @@
  	public function index()
  	{
  		echo "<h1>Perkenalkan</h1>";
- 		echo "nama saya rendy asal bekasi";
+ 		echo "nama saya rendy asal bekasii";
  	}
  } 
 ?>
